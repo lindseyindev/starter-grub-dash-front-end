@@ -1,12 +1,16 @@
-# GrubDash Front End Application
+# GrubDash Frontend
 
-## Installation
+## Table of Contents
+* [Description](#description)
+* [Questions](#questions)
 
-1. Fork / clone this repository.
-1. Run `npm install`.
+This is the interface built with React and Bootstrap that fetches data from the [GrubDash API](https://github.com/lindseyindev/project_GrubDash)
+## Description
 
-Use `npm start` to run the application.
+![deployed]()
 
-Set the `API_BASE_URL` environment variable to the base url for the API.
+To view this project on the web, click [here]()
 
-If `API_BASE_URL` is not set, a default value of `http://localhost:5000` is used.
+This project primarily uses Bootstrap and React.
+## Questions
+Questions? Reach out at [github.com/lindseyindev](github.com/lindseyindev)
